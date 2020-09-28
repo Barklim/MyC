@@ -12,6 +12,8 @@ This is my courses list and progress.
 ### `otus` 
   
 ### `mininV`
+js 
+Angular
 
 ### `youtube`
 
