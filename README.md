@@ -4,6 +4,7 @@
   - [otus](#motus)
   - [mininV](#mininV)
   - [youtube](#youtube)
+  - [udemy](#udemy)
   
 ## Descriptions courses
 
@@ -20,3 +21,8 @@ Angular
 ### `youtube`
 
 excell course
+
+### `udemy`
+
+security 
+typescript
