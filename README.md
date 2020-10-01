@@ -15,12 +15,12 @@ laravel
 data
   
 ### `mininV`
-js 
+excell course 
 Angular
 
 ### `youtube`
 
-excell course
+archacov
 
 ### `udemy`
 
