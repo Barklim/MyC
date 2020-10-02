@@ -17,6 +17,7 @@ data
 ### `mininV`
 excell course 
 Angular
+mern
 
 ### `youtube`
 
