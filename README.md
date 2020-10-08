@@ -13,19 +13,26 @@ realize something from trello https://trello.com/b/ToA7vWwJ/projects-barklim
 This is my courses list and progress.
   
 ### `otus`
+
 laravel
+
 data
   
 ### `mininV`
 excell course 
+
 Angular
+
 mern
 
 ### `youtube`
 
 archacov
 
+ninja
+
 ### `udemy`
 
 security 
+
 typescript
