@@ -9,7 +9,8 @@
   
 realize something from trello https://trello.com/b/ToA7vWwJ/projects-barklim
 
-security, next
+security
+next
   
 ## Descriptions courses
 
