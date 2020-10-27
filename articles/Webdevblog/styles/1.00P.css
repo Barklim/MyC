@@ -1,0 +1,21 @@
+html {
+  font: 1em sans-serif;
+}
+
+body {
+  padding: 1em;
+}
+
+p {
+  font-size: 2em;
+  line-height: 1;
+  margin: 1rem 0;
+}
+
+button {
+  font: inherit;
+  padding: 0.5em 0.75em;
+  background-color: #eee;
+  border: 1px solid #222;
+  color: black;
+}
