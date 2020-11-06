@@ -14,7 +14,7 @@ security
 
 next
 
-styledComp, gatsby
+styledComp
   
 ## Descriptions courses
 
