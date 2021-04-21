@@ -7,61 +7,35 @@
   - [mininV](#mininV)
   - [youtube](#youtube)
   - [udemy](#udemy)
-  
-realize something from [trello](https://trello.com/b/ToA7vWwJ/projects-barklim)
 
-security
-
-next
-
-styledComp
-
-zurb foundation
-
-styleguidists
-
-https://www.youtube.com/watch?v=doVgFdc6Op4&list=PLcvhF2Wqh7DM3z1XqMw0kPuxpbyMo3HvN&index=3&ab_channel=IT-KAMASUTRA
-
-webjl
-
-gatsby
+Security, next, styledComp, zurb foundation, styleguidists, IT-KAMASUTRA.2, webjl, gatsby
   
 ## Descriptions courses
 
-This is my courses list and progress.
+My courses list and progress.
+
+1.JAVASCRIPT.NINJA. Мастер-класс: Unit-тестирование в JavaScript
 
 ### `articles`
 
-1.Webdevblog
+Webdevblog
 
 ### `ch`
 
-gatsby
-
-mern
+Gatsby, mern
 
 ### `otus`
 
-laravel
-
-data
+Laravel, data
   
 ### `mininV`
 
-excell course 
-
-Angular
-
-mern
+Excell course, mern, SOLID
 
 ### `youtube`
 
-archacov
-
-ninja
+Archacov, ninja
 
 ### `udemy`
 
-security 
-
-typescript
+Security, typescript
